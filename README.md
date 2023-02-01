@@ -1,4 +1,4 @@
-# Day 2 - Git |Configuration |Usage
+# Git |Configuration |Usage
 
 Created: January 31, 2023 8:48 AM
 Last Edited Time: February 1, 2023 2:24 AM
